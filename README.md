@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ramanjaneyulu's Portfolio 
 
-<!--
-**Ramanjaneyulu-M/Ramanjaneyulu-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio showcasing my expertise in Trade Surveillance.
 
-Here are some ideas to get you started:
+## Expertise
+I specialize in Trade Surveillance, focusing on the detection of market abuse and ensuring regulatory compliance. My experience includes working with advanced analytical tools and methodologies to identify potential market manipulation and protect the integrity of trading practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience
+### BNP Paribas
+I have had the opportunity to work at BNP Paribas, where I developed and implemented trade surveillance strategies to monitor trading activities and detect irregularities. My role involved collaborating with various teams to ensure compliance with regulatory standards and enhance the effectiveness of surveillance systems.
+
+## Skills
+- Market Abuse Detection
+- Regulatory Compliance
+- Data Analysis
+- Risk Management
+- Use of Surveillance Tools and Technologies
+
+## Live Portfolio
+To view the live portfolio, please visit the following link: [View Live Portfolio](https://github.com/Ramanjaneyulu-M/Ramanjaneyulu-M)
+
+---
+
+Thank you for visiting my portfolio. Feel free to reach out for collaboration or inquiries!
